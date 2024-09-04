@@ -17,8 +17,8 @@ that discourage, exhaust, or otherwise negatively affect other participants.
 
 ## Table of contents
 
-*[Help](#help)
 * [Support](#support)
+* [Help](#help)
 * [Release types](#release-types)
   * [Download](#download)
     * [Current and LTS releases](#current-and-lts-releases)
